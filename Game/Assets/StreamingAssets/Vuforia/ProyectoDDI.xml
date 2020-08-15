@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Pikachu" size="300.000000 417.813751" />
+    <ImageTarget name="Pidgey" size="300.000000 417.813751" />
+    <ImageTarget name="Metapod" size="300.000000 421.224487" />
+    <ImageTarget name="Ivysaur" size="300.000000 421.951233" />
+    <ImageTarget name="Charizard" size="300.000000 418.775513" />
+    <ImageTarget name="Blastoise" size="300.000000 425.206604" />
+  </Tracking>
+</QCARConfig>
